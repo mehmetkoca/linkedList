@@ -1,0 +1,21 @@
+C:\Users\onur.leblebici\Google Drive\Akademik\Doçentlik\Kaynaklar\Veri Yapıları\CBU Uni\Veri Yapıları\Uygulamalar\3. Listeler\List\List\bin\Debug\List.exe.config
+C:\Users\onur.leblebici\Google Drive\Akademik\Doçentlik\Kaynaklar\Veri Yapıları\CBU Uni\Veri Yapıları\Uygulamalar\3. Listeler\List\List\bin\Debug\List.exe
+C:\Users\onur.leblebici\Google Drive\Akademik\Doçentlik\Kaynaklar\Veri Yapıları\CBU Uni\Veri Yapıları\Uygulamalar\3. Listeler\List\List\bin\Debug\List.pdb
+C:\Users\onur.leblebici\Google Drive\Akademik\Doçentlik\Kaynaklar\Veri Yapıları\CBU Uni\Veri Yapıları\Uygulamalar\3. Listeler\List\List\obj\Debug\List.csprojResolveAssemblyReference.cache
+C:\Users\onur.leblebici\Google Drive\Akademik\Doçentlik\Kaynaklar\Veri Yapıları\CBU Uni\Veri Yapıları\Uygulamalar\3. Listeler\List\List\obj\Debug\List.Form1.resources
+C:\Users\onur.leblebici\Google Drive\Akademik\Doçentlik\Kaynaklar\Veri Yapıları\CBU Uni\Veri Yapıları\Uygulamalar\3. Listeler\List\List\obj\Debug\List.Properties.Resources.resources
+C:\Users\onur.leblebici\Google Drive\Akademik\Doçentlik\Kaynaklar\Veri Yapıları\CBU Uni\Veri Yapıları\Uygulamalar\3. Listeler\List\List\obj\Debug\List.csproj.GenerateResource.Cache
+C:\Users\onur.leblebici\Google Drive\Akademik\Doçentlik\Kaynaklar\Veri Yapıları\CBU Uni\Veri Yapıları\Uygulamalar\3. Listeler\List\List\obj\Debug\List.exe
+C:\Users\onur.leblebici\Google Drive\Akademik\Doçentlik\Kaynaklar\Veri Yapıları\CBU Uni\Veri Yapıları\Uygulamalar\3. Listeler\List\List\obj\Debug\List.pdb
+C:\Users\user\Desktop\3. Listeler\List\List\bin\Debug\List.exe.config
+C:\Users\user\Desktop\3. Listeler\List\List\obj\Debug\List.exe
+C:\Users\user\Desktop\3. Listeler\List\List\obj\Debug\List.pdb
+C:\Users\user\Desktop\3. Listeler\List\List\bin\Debug\List.exe
+C:\Users\user\Desktop\3. Listeler\List\List\bin\Debug\List.pdb
+C:\Users\user\Desktop\3. Listeler\List\List\obj\Debug\List.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\3. Listeler\List\List\obj\Debug\List.Form1.resources
+C:\Users\user\Desktop\3. Listeler\List\List\obj\Debug\List.Properties.Resources.resources
+C:\Users\user\Desktop\3. Listeler\List\List\obj\Debug\List.csproj.GenerateResource.Cache
+C:\Users\user\Documents\List 2\List\List\bin\Debug\List.exe.config
+C:\Users\user\Documents\List 2\List\List\obj\Debug\List.exe
+C:\Users\user\Documents\List 2\List\List\obj\Debug\List.pdb
